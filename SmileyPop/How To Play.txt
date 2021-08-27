@@ -1,0 +1,13 @@
+If you have installed pygame & Python,than you could play.
+HowToPlay£º
+    1.Nothing (-_-)
+    2.Click Pop_v3.1 twice.
+    3.If you saw a smiley_face£¬click it DOUBLE-quick£¬or you might die!!
+    4.Other buttons£º
+	£¨1£©Mouse,for popping smileys
+	£¨2£©F4,for restart
+	£¨3£©F12,for exit(because there is no exit button)
+	£¨4£©What F1 does,I won't tell you!!!
+    5.If you win, wait 6-7 seconds for the start of the next level.
+
+P.S.	Could you teach me how to shorten my code?(Pop_v3.1)
