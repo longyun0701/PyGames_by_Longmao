@@ -5,3 +5,5 @@ Author: Junlun Long----Age 10-&-a-half
 康威元胞自动机  Conway game of life  
 
 size 23*11  
+
+Created August 2021
